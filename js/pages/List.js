@@ -100,10 +100,10 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps).
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record.
+                        Achieved the record on the level that is listed on the site - <b>please check the level ID before you submit a record!</b>
                     </p>
                     <p>
                         Have either source audio or clicks/taps in the video. Edited audio only does not count.
@@ -120,9 +120,6 @@ export default {
                     <p>
                         Do not use easy modes, only a record of the unmodified level qualifies.
                     </p>
-                    <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
-                    </p>
                     <h3>Placement Requirements</h3>
                     <p>
                         The level must have been verified legitimately on the GDPS.
@@ -134,7 +131,7 @@ export default {
                         The level must not be rated. <b>If the level is unrated when it is placed, and later rated, the level will be moved to the Legacy List, and records will no longer be accepted.</b>
                     </p>
                     <p>
-                        The level can be a reupload, but it must have been verified or reverified on the GDPS and the placement must be approved by i-XRC. The creator and verifier also must have both been in the GDPS for at least 2 weeks, and the level can only be placed if there has not been a reupload by the same creator placed within the past week.
+                        The level can be a reupload, but it must have been verified or reverified on the GDPS and the placement must be approved by i-XRC. The creator and verifier also must have both been in the GDPS for at least 2 weeks, and the level can only be placed if there has not been a reupload by the same creator placed within the past 3 months.
                     </p>
                     <p>
                         The level does not have to have rateworthy decoration, being as the whole point of the list is that it has all the unrated levels... :bruh:
