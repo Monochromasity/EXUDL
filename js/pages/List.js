@@ -98,15 +98,15 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>Submission Requirements</h3>
+                    <h3>Record Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps).
+                        Achieved the record without using hacks.
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - <b>please check the level ID before you submit a record!</b>
+                        Achieved the record on the level that is listed on the site. <b>Please check the level ID before you submit a record!</b>
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count.
+                        Have either source audio, clicks/taps, or a mod like Inputs Viewer in the video. Edited audio only does not count.
                     </p>
                     <p>
                         The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this.
@@ -122,7 +122,7 @@ export default {
                     </p>
                     <h3>Placement Requirements</h3>
                     <p>
-                        The level must have been verified legitimately on the GDPS.
+                        The level must have been verified legitimately on the GDPS. Illegitimate verifications include using verify hack, hacking the level, using a secret route or bug route, etc.
                     </p>
                     <p>
                         The level must not be a stolen level.
