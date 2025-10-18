@@ -131,6 +131,9 @@ export default {
                         The level must not be rated. <b>If the level is unrated when it is placed, and later rated, the level will be moved to the Legacy List, and records will no longer be accepted.</b>
                     </p>
                     <p>
+                        <b>The level must have a song.</b> If the song was removed, reupload it. No song means no placement. If a song does not get added to a placed level after multiple prompts, the level will be removed from the list.
+                    </p>
+                    <p>
                         The level can be a reupload, but it must have been verified or reverified on the GDPS and the placement must be approved by i-XRC. The creator and verifier also must have both been in the GDPS for at least 2 weeks, and the level can only be placed if there has not been a reupload by the same creator placed within the past 3 months.
                     </p>
                     <p>
